@@ -1,0 +1,10 @@
+django
+djangorestframework
+drf-yasg
+psycopg2-binary
+pillow
+python-decouple
+python-slugify
+djangorestframework-simplejwt
+celery
+redis
